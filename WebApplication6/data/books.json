@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "title": "The adventures of Tom Sawyer",
+      "author": "Mark Twain",
+      "genre": "Bildungsroman",
+      "year": 1876
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian fiction",
+      "year": 1949
+    },
+    {
+      "title": "Kateryna",
+      "author": "Taras Shevchenko",
+      "genre": "Poem",
+      "year": 1840
+    },
+    {
+      "title": "Answer to Job",
+      "author": "Carl Jung",
+      "genre": "Analytical psychology",
+      "year": 1962
+    }
+  ]
+}

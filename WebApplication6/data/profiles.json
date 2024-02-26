@@ -1,0 +1,34 @@
+{
+  "profiles": [
+    {
+      "id": 0,
+      "name": "John Gates",
+      "age": 23
+    },
+    {
+      "id": 1,
+      "name": "Mark Johnson",
+      "age": 44
+    },
+    {
+      "id": 2,
+      "name": "Ivan Voloshchuk",
+      "age": 20
+    },
+    {
+      "id": 3,
+      "name": "Jack Kowalski",
+      "age": 38
+    },
+    {
+      "id": 4,
+      "name": "Mami Takada",
+      "age": 26
+    },
+    {
+      "id": 5,
+      "name": "Anna Petrova",
+      "age": 67
+    }
+  ]
+}
